@@ -33,7 +33,7 @@
 
 ###
 
-<p align="left">I'm a Data Scientist | BI | Machine Learning Engineer | Développement web| from Morocco<br><br>- 🔭 I’m working as a Data Scientist<br>- ⚡ In my free time I handle some projects for different clients<br>- 👩‍💻My Upwork profile: https://www.upwork.com/freelancers/~015df4a9313d2d549f</p>
+<p align="left">I'm a Data Scientist | BI | Machine Learning Engineer | Développement web| from Morocco<br><br>- 🔭 I’m working as a Data Scientist<br>- ⚡ In my free time I handle some projects for different clients 👩‍💻Freelancing Time👩‍💻<br>- 👩‍💻My Upwork profile: https://www.upwork.com/freelancers/~015df4a9313d2d549f</p>
 
 ###
 
